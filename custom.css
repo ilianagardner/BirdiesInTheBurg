@@ -1,0 +1,64 @@
+.navbar-logo {
+    margin-right: 15px; }
+
+
+.poiret-one-regular {
+  font-family: "Poiret One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.navbar-brand {
+	font-family: "Poiret One", sans-serif;
+	font-size: 25px;
+}
+
+
+.header-bg {
+    background-image: url('header.png'); 
+    background-size: cover;       
+    background-position: center;  
+    background-repeat: no-repeat; 
+    padding: 170px 0;                 
+    margin-bottom: 0; 
+}
+
+#about {
+    padding-top: 100px;
+}
+
+
+.navbar-custom {
+    background-color: #283e61; 
+}
+
+.bg-custom {
+    background-color: #455e87;
+    color: white; }
+h1 {
+	font-size: 70px;
+}
+
+h2 {
+	font-size: 47px;
+}
+footer {
+    margin-top: 30px; 
+   
+}
+
+#about {
+    padding-top: 40px; 
+    padding-bottom: 40px; 
+}
+
+#about img {
+    margin-top: 20px; 
+    margin-left: 20px; 
+}
+
+#about .col-lg-6 {
+    padding: 20px;}
+
+
+
